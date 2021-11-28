@@ -1,0 +1,10 @@
+i am rudr
+I am in 9th grade
+I am 14 years old
+I am a student in highschool
+I live in New York
+
+introString="My name is Rudr, I am 14 years old"
+def greet (name):
+  print("hello," +name +".how are you?")
+  
